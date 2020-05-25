@@ -20,12 +20,12 @@
 
 <pins version="1">
   <!-- mcc=202 is Greece-->
-  <pin carrier="Cosmote Wireless Internet" mcc="202" mnc="01" pin="" />
-  <pin carrier="COSMOTE Internet" mcc="202" mnc="01" pin="" />
-  <pin carrier="Vf Mobile Internet" mcc="202" mnc="05" pin="" />
-  <pin carrier="Vf Internet" mcc="202" mnc="05" pin="" />
-  <pin carrier="Q Internet" mcc="202" mnc="09" pin="" />
-  <pin carrier="Wind Internet" mcc="202" mnc="10" pin="" />
+  <pin carrier="Cosmote Wireless Internet" mcc="202" mnc="01" pin="RANDOM" />
+  <pin carrier="COSMOTE Internet" mcc="202" mnc="01" pin="RANDOM" />
+  <pin carrier="Vf Mobile Internet" mcc="202" mnc="05" pin="RANDOM" />
+  <pin carrier="Vf Internet" mcc="202" mnc="05" pin="RANDOM" />
+  <pin carrier="Q Internet" mcc="202" mnc="09" pin="RANDOM" />
+  <pin carrier="Wind Internet" mcc="202" mnc="10" pin="RANDOM" />
   <!-- mcc=204 is Netherlands-->
   <pin carrier="Tele2 GPRS" mcc="204" mnc="02" pin="" />
   <pin carrier="Tele2 Internet" mcc="204" mnc="02" pin="" />
@@ -296,59 +296,59 @@
   <pin carrier="Plintron" mcc="232" mnc="22" pin="" />
   <!-- mcc=234 is United Kingdom-->
   <pin carrier="UBIQUISYS" mcc="234" mnc="01" pin="" />
-  <pin carrier="O2 MOBILE WEB" mcc="234" mnc="02" pin="" />
-  <pin carrier="BT One Phone Internet" mcc="234" mnc="08" pin="" />
-  <pin carrier="BT OnePhone Internet" mcc="234" mnc="08" pin="" />
-  <pin carrier="O2 Mobile Web" mcc="234" mnc="10" pin="" />
+  <pin carrier="O2 MOBILE WEB" mcc="234" mnc="02" pin="0000" />
+  <pin carrier="BT One Phone Internet" mcc="234" mnc="08" pin="0000" />
+  <pin carrier="BT OnePhone Internet" mcc="234" mnc="08" pin="0000" />
+  <pin carrier="O2 Mobile Web" mcc="234" mnc="10" pin="0000" />
   <pin carrier="Jump" mcc="234" mnc="10" pin="" />
-  <pin carrier="TalkTalk" mcc="234" mnc="10" pin="" />
-  <pin carrier="O2 Pay As You Go" mcc="234" mnc="10" pin="" />
-  <pin carrier="giffgaff" mcc="234" mnc="10" pin="" />
-  <pin carrier="O2 Pay &amp; Go" mcc="234" mnc="10" pin="" />
+  <pin carrier="TalkTalk" mcc="234" mnc="10" pin="1234" />
+  <pin carrier="O2 Pay As You Go" mcc="234" mnc="10" pin="0000" />
+  <pin carrier="giffgaff" mcc="234" mnc="10" pin="5555" />
+  <pin carrier="O2 Pay &amp; Go" mcc="234" mnc="10" pin="0000" />
   <pin carrier="Jump UK" mcc="234" mnc="10" pin="" />
-  <pin carrier="TESCO" mcc="234" mnc="10" pin="" />
-  <pin carrier="O2 Pay Monthly" mcc="234" mnc="10" pin="" />
-  <pin carrier="O2 MOBILE WEB" mcc="234" mnc="11" pin="" />
-  <pin carrier="Lebara Internet" mcc="234" mnc="15" pin="" />
+  <pin carrier="TESCO" mcc="234" mnc="10" pin="5555" />
+  <pin carrier="O2 Pay Monthly" mcc="234" mnc="10" pin="0000" />
+  <pin carrier="O2 MOBILE WEB" mcc="234" mnc="11" pin="0000" />
+  <pin carrier="Lebara Internet" mcc="234" mnc="15" pin="0000" />
   <pin carrier="Sainsbury's PAYG" mcc="234" mnc="15" pin="" />
-  <pin carrier="Talkmob PAYG WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="PAYG WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="Contract WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="Talkmob WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="Vodafone UK" mcc="234" mnc="15" pin="" />
-  <pin carrier="ASDA WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="TalkTalk" mcc="234" mnc="15" pin="" />
-  <pin carrier="TalkTalk WAP" mcc="234" mnc="15" pin="" />
-  <pin carrier="BT Mobile" mcc="234" mnc="15" pin="" />
-  <pin carrier="Vodafone UK Prepay" mcc="234" mnc="15" pin="" />
-  <pin carrier="iD Mobile" mcc="234" mnc="20" pin="" />
-  <pin carrier="Superdrug" mcc="234" mnc="20" pin="" />
-  <pin carrier="3" mcc="234" mnc="20" pin="" />
-  <pin carrier="SMARTY" mcc="234" mnc="20" pin="" />
+  <pin carrier="Talkmob PAYG WAP" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="PAYG WAP" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="Contract WAP" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="Talkmob WAP" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="Vodafone UK" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="ASDA WAP" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="TalkTalk" mcc="234" mnc="15" pin="1234" />
+  <pin carrier="TalkTalk WAP" mcc="234" mnc="15" pin="1234" />
+  <pin carrier="BT Mobile" mcc="234" mnc="15" pin="5555" />
+  <pin carrier="Vodafone UK Prepay" mcc="234" mnc="15" pin="0000" />
+  <pin carrier="iD Mobile" mcc="234" mnc="20" pin="0000" />
+  <pin carrier="Superdrug" mcc="234" mnc="20" pin="0000" />
+  <pin carrier="3" mcc="234" mnc="20" pin="0000" />
+  <pin carrier="SMARTY" mcc="234" mnc="20" pin="0000" />
   <pin carrier="Truphone" mcc="234" mnc="25" pin="" />
-  <pin carrier="Lycamobile" mcc="234" mnc="26" pin="" />
-  <pin carrier="BT Internet" mcc="234" mnc="30" pin="" />
-  <pin carrier="Virgin Media Mobile Internet" mcc="234" mnc="30" pin="" />
-  <pin carrier="EE Internet" mcc="234" mnc="30" pin="" />
-  <pin carrier="BT One Phone Internet" mcc="234" mnc="30" pin="" />
-  <pin carrier="BT OnePhone Internet" mcc="234" mnc="30" pin="" />
-  <pin carrier="BT Internet" mcc="234" mnc="33" pin="" />
+  <pin carrier="Lycamobile" mcc="234" mnc="26" pin="0000" />
+  <pin carrier="BT Internet" mcc="234" mnc="30" pin="5555" />
+  <pin carrier="Virgin Media Mobile Internet" mcc="234" mnc="30" pin="7890" />
+  <pin carrier="EE Internet" mcc="234" mnc="30" pin="1111" />
+  <pin carrier="BT One Phone Internet" mcc="234" mnc="30" pin="5555" />
+  <pin carrier="BT OnePhone Internet" mcc="234" mnc="30" pin="5555" />
+  <pin carrier="BT Internet" mcc="234" mnc="33" pin="5555" />
   <pin carrier="Internet" mcc="234" mnc="33" pin="" />
-  <pin carrier="EE Internet" mcc="234" mnc="33" pin="" />
-  <pin carrier="Virgin Mobile" mcc="234" mnc="38" pin="" />
+  <pin carrier="EE Internet" mcc="234" mnc="33" pin="1111" />
+  <pin carrier="Virgin Mobile" mcc="234" mnc="38" pin="7890" />
   <pin carrier="Gamma Data" mcc="234" mnc="39" pin="" />
   <pin carrier="Jump" mcc="234" mnc="39" pin="" />
   <pin carrier="pepperWEB (Jersey)" mcc="234" mnc="50" pin="" />
   <pin carrier="GTE Lund Internet" mcc="234" mnc="53" pin="" />
   <pin carrier="GTE Lund Internet" mcc="234" mnc="54" pin="" />
   <pin carrier="C&amp;W Guernsey Internet" mcc="234" mnc="55" pin="" />
-  <pin carrier="Sky Internet" mcc="234" mnc="57" pin="" />
-  <pin carrier="Internet" mcc="234" mnc="57" pin="" />
-  <pin carrier="3G HSDPA" mcc="234" mnc="58" pin="" />
-  <pin carrier="Manx Telecom Contract WEB" mcc="234" mnc="58" pin="" />
-  <pin carrier="EE Internet" mcc="234" mnc="86" pin="" />
+  <pin carrier="Sky Internet" mcc="234" mnc="57" pin="0000" />
+  <pin carrier="Internet" mcc="234" mnc="57" pin="0000" />
+  <pin carrier="3G HSDPA" mcc="234" mnc="58" pin="0000" />
+  <pin carrier="Manx Telecom Contract WEB" mcc="234" mnc="58" pin="0000" />
+  <pin carrier="EE Internet" mcc="234" mnc="86" pin="1111" />
   <!-- mcc=235 is United Kingdom-->
-  <pin carrier="3" mcc="235" mnc="94" pin="" />
+  <pin carrier="3" mcc="235" mnc="94" pin="0000" />
   <!-- mcc=238 is Denmark-->
   <pin carrier="Fullrate Internet" mcc="238" mnc="01" pin="" />
   <pin carrier="Uni-Tel" mcc="238" mnc="01" pin="" />
